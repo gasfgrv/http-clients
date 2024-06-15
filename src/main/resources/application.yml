@@ -1,0 +1,9 @@
+api:
+    baseUrl: https://dummyjson.com
+    url:
+        login: https://dummyjson.com/auth/login
+        user: https://dummyjson.com/auth/me
+
+spring:
+    application:
+        name: http-clients
